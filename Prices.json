@@ -45,59 +45,59 @@
         "OLD_PRICE(EUR)": "314.74"
     },
     "GUITAR9": {
-        "IME_GITARE": "LAG T118ACE TRAMONTANE FOLK AUDITORIUM ELEKTRO AKUSTIČNA KITARA",
-        "NEW_PRICE(EUR)": "435.00",
-        "OLD_PRICE(EUR)": "457.89"
-    },
-    "GUITAR10": {
         "IME_GITARE": "CRAFTER GA 7/N AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "360.00",
         "OLD_PRICE(EUR)": "378.95"
     },
-    "GUITAR11": {
+    "GUITAR10": {
         "IME_GITARE": "CRAFTER MINO MACASSAR ELEKTROAKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "420.00",
         "OLD_PRICE(EUR)": "442.11"
     },
-    "GUITAR12": {
+    "GUITAR11": {
         "IME_GITARE": "LAG T118ASCE TRAMONTANE FOLK AUDITORIUM ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "420.00",
         "OLD_PRICE(EUR)": "442.11"
     },
-    "GUITAR13": {
+    "GUITAR12": {
         "IME_GITARE": "DOWINA PUELLA DCE-S ELEKTROAKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "499.00",
         "OLD_PRICE(EUR)": "525.26"
     },
-    "GUITAR14": {
+    "GUITAR13": {
         "IME_GITARE": "FURCH MASTERS CHOICE ORANGE NAT ELEKTROAKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "2,440.00",
         "OLD_PRICE(EUR)": "2,568.42"
     },
-    "GUITAR15": {
+    "GUITAR14": {
         "IME_GITARE": "LAG T270PE TRAMONTANE PARLOR ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "469.00",
         "OLD_PRICE(EUR)": "493.68"
     },
-    "GUITAR16": {
+    "GUITAR15": {
         "IME_GITARE": "FLIGHT D-175 SB AKUSTIČNA KITARA SUNBURST",
         "NEW_PRICE(EUR)": "88.01",
         "OLD_PRICE(EUR)": "92.64"
     },
-    "GUITAR17": {
+    "GUITAR16": {
         "IME_GITARE": "CRAFTER GA 8/N AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "380.00",
         "OLD_PRICE(EUR)": "400.00"
     },
-    "GUITAR18": {
+    "GUITAR17": {
         "IME_GITARE": "FLIGHT D-155C SAP AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "90.00",
         "OLD_PRICE(EUR)": "94.74"
     },
-    "GUITAR19": {
+    "GUITAR18": {
         "IME_GITARE": "JET JDE-255 ELEKTRO AKUSTIČNA KITARA ČRNA",
         "NEW_PRICE(EUR)": "149.00",
         "OLD_PRICE(EUR)": "156.84"
+    },
+    "GUITAR19": {
+        "IME_GITARE": "LAG T118ACE TRAMONTANE FOLK AUDITORIUM ELEKTRO AKUSTIČNA KITARA",
+        "NEW_PRICE(EUR)": "435.00",
+        "OLD_PRICE(EUR)": "457.89"
     },
     "GUITAR20": {
         "IME_GITARE": "CRAFTER HD800CE/N ELEKTROAKUSTIČNA KITARA",
@@ -175,119 +175,119 @@
         "OLD_PRICE(EUR)": "420.00"
     },
     "GUITAR35": {
-        "IME_GITARE": "LAG T70ACE TRAMONTANE 70 AUDITORIUM ELEKTRO AKUSTIČNA KITARA",
-        "NEW_PRICE(EUR)": "312.55",
-        "OLD_PRICE(EUR)": "329.00"
-    },
-    "GUITAR36": {
         "IME_GITARE": "LAG T70DCE-BRB TRAMONTANE ELEKTRO AKUSTIČNA KITARA BRB",
         "NEW_PRICE(EUR)": "312.55",
         "OLD_PRICE(EUR)": "329.00"
     },
-    "GUITAR37": {
+    "GUITAR36": {
         "IME_GITARE": "FLIGHT F-230CEQ SB ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "119.90",
         "OLD_PRICE(EUR)": "126.21"
     },
-    "GUITAR38": {
+    "GUITAR37": {
         "IME_GITARE": "CORT GA-QF TBB ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "303.00",
         "OLD_PRICE(EUR)": "318.95"
     },
-    "GUITAR39": {
+    "GUITAR38": {
         "IME_GITARE": "CRAFTER JVT680VTG ELEKTROAKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "480.00",
         "OLD_PRICE(EUR)": "505.26"
     },
-    "GUITAR40": {
+    "GUITAR39": {
         "IME_GITARE": "JET JF-155 AKUSTIČNA KITARA ČRNA",
         "NEW_PRICE(EUR)": "119.00",
         "OLD_PRICE(EUR)": "125.26"
     },
-    "GUITAR41": {
+    "GUITAR40": {
         "IME_GITARE": "FLIGHT AD-555 NA AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "169.00",
         "OLD_PRICE(EUR)": "177.89"
     },
-    "GUITAR42": {
-        "IME_GITARE": "CORT NDX20 BK CUTAWAY ELEKTRO AKUSTIČNA KITARA",
-        "NEW_PRICE(EUR)": "429.00",
-        "OLD_PRICE(EUR)": "451.58"
-    },
-    "GUITAR43": {
+    "GUITAR41": {
         "IME_GITARE": "FURCH Dc-SW BLUE PLUS NAT AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "1,250.00",
         "OLD_PRICE(EUR)": "1,315.79"
     },
-    "GUITAR44": {
+    "GUITAR42": {
         "IME_GITARE": "CORT AF510E OP ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "175.00",
         "OLD_PRICE(EUR)": "184.21"
     },
-    "GUITAR45": {
+    "GUITAR43": {
         "IME_GITARE": "CORT AD880CE NAT CUTAWAY ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "231.00",
         "OLD_PRICE(EUR)": "243.16"
     },
-    "GUITAR46": {
+    "GUITAR44": {
         "IME_GITARE": "LAG T170D TRAMONTANE DREADNOUGHT AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "275.25",
         "OLD_PRICE(EUR)": "289.74"
     },
-    "GUITAR47": {
+    "GUITAR45": {
         "IME_GITARE": "DOWINA CHARDONAY DE-S ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "926.31",
         "OLD_PRICE(EUR)": "1,157.89"
     },
-    "GUITAR48": {
+    "GUITAR46": {
         "IME_GITARE": "FURCH LITTLE JANE MINI NAT AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "1,080.00",
         "OLD_PRICE(EUR)": "1,136.84"
     },
-    "GUITAR49": {
+    "GUITAR47": {
         "IME_GITARE": "CRAFTER BA 550EQ/MS AKUSTIČNI BAS",
         "NEW_PRICE(EUR)": "392.00",
         "OLD_PRICE(EUR)": "560.00"
     },
-    "GUITAR50": {
+    "GUITAR48": {
         "IME_GITARE": "LAG T118D TRAMONTANE DREADNOUGHT AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "339.00",
         "OLD_PRICE(EUR)": "356.84"
     },
-    "GUITAR51": {
+    "GUITAR49": {
         "IME_GITARE": "LAG T318DCE TRAMONTANE ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "490.00",
         "OLD_PRICE(EUR)": "515.79"
     },
-    "GUITAR52": {
+    "GUITAR50": {
         "IME_GITARE": "CORT AD880CE BK CUTAWAY ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "242.00",
         "OLD_PRICE(EUR)": "254.74"
     },
-    "GUITAR53": {
+    "GUITAR51": {
         "IME_GITARE": "LAG T270DCE TRAMONTANE DREADNOUGHT ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "469.00",
         "OLD_PRICE(EUR)": "493.68"
     },
-    "GUITAR54": {
+    "GUITAR52": {
+        "IME_GITARE": "LAG T70ACE TRAMONTANE 70 AUDITORIUM ELEKTRO AKUSTIČNA KITARA",
+        "NEW_PRICE(EUR)": "312.55",
+        "OLD_PRICE(EUR)": "329.00"
+    },
+    "GUITAR53": {
         "IME_GITARE": "FURCH MASTERS CHOICE INDIGO NAT ELEKTROAKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "905.00",
         "OLD_PRICE(EUR)": "952.63"
     },
-    "GUITAR55": {
+    "GUITAR54": {
         "IME_GITARE": "CRAFTER DE7/N SOLID TOP AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "440.00",
         "OLD_PRICE(EUR)": "463.16"
     },
-    "GUITAR56": {
+    "GUITAR55": {
         "IME_GITARE": "CORT CJ RETRO VSM JUMBO ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "288.00",
         "OLD_PRICE(EUR)": "303.16"
     },
-    "GUITAR57": {
+    "GUITAR56": {
         "IME_GITARE": "CORT GA5F CB NAT CUTAWAY ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "430.00",
         "OLD_PRICE(EUR)": "452.63"
+    },
+    "GUITAR57": {
+        "IME_GITARE": "CORT NDX20 BK CUTAWAY ELEKTRO AKUSTIČNA KITARA",
+        "NEW_PRICE(EUR)": "429.00",
+        "OLD_PRICE(EUR)": "451.58"
     },
     "GUITAR58": {
         "IME_GITARE": "LAG TRAMONTANE WINGS DEATH ELEKTROAKUSTIČNA KITARA",
@@ -505,156 +505,146 @@
         "OLD_PRICE(EUR)": "254.74"
     },
     "GUITAR101": {
-        "IME_GITARE": "CORT AD890CF NT CUTAWAY ELEKTRO AKUSTIČNA KITARA",
-        "NEW_PRICE(EUR)": "242.00",
-        "OLD_PRICE(EUR)": "254.74"
-    },
-    "GUITAR102": {
         "IME_GITARE": "JET JD-255 AKUSTIČNA KITARA SB",
         "NEW_PRICE(EUR)": "119.00",
         "OLD_PRICE(EUR)": "125.26"
     },
-    "GUITAR103": {
+    "GUITAR102": {
         "IME_GITARE": "CORT CJ-MEDX NAT JUMBO ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "220.00",
         "OLD_PRICE(EUR)": "231.58"
     },
-    "GUITAR104": {
+    "GUITAR103": {
         "IME_GITARE": "FLIGHT F-230 BLK AKUSTIČNI SET",
         "NEW_PRICE(EUR)": "99.47",
         "OLD_PRICE(EUR)": "110.52"
     },
-    "GUITAR105": {
+    "GUITAR104": {
         "IME_GITARE": "LAG T70DC TRAMONTANE 70 DREADNOUGHT CUTAWAY AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "209.00",
         "OLD_PRICE(EUR)": "220.00"
     },
-    "GUITAR106": {
+    "GUITAR105": {
         "IME_GITARE": "CORT EARTH MINI AKUSTIČNA KITARA OP",
         "NEW_PRICE(EUR)": "199.00",
         "OLD_PRICE(EUR)": "209.47"
     },
-    "GUITAR107": {
+    "GUITAR106": {
         "IME_GITARE": "CORT EARTH70MH OP AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "199.00",
         "OLD_PRICE(EUR)": "209.47"
     },
-    "GUITAR108": {
+    "GUITAR107": {
         "IME_GITARE": "CORT GA-MEDX OP ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "184.00",
         "OLD_PRICE(EUR)": "193.68"
     },
-    "GUITAR109": {
+    "GUITAR108": {
         "IME_GITARE": "FLIGHT G-575C TBK AKUSTIČNA KITARA, SOLID",
         "NEW_PRICE(EUR)": "167.00",
         "OLD_PRICE(EUR)": "175.79"
     },
-    "GUITAR110": {
+    "GUITAR109": {
         "IME_GITARE": "IBANEZ PF15-BK AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "164.35",
         "OLD_PRICE(EUR)": "173.00"
     },
-    "GUITAR111": {
+    "GUITAR110": {
         "IME_GITARE": "IBANEZ PF15-NT AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "160.56",
         "OLD_PRICE(EUR)": "169.01"
     },
-    "GUITAR112": {
+    "GUITAR111": {
         "IME_GITARE": "FLIGHT D-200CEQ SB ELEKTRO AKUSTIČNA KITARA SUNBURST",
         "NEW_PRICE(EUR)": "150.99",
         "OLD_PRICE(EUR)": "158.94"
     },
-    "GUITAR113": {
+    "GUITAR112": {
         "IME_GITARE": "FLIGHT AD-455C NA AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "143.00",
         "OLD_PRICE(EUR)": "150.53"
     },
-    "GUITAR114": {
-        "IME_GITARE": "FLIGHT D-435 BK AKUSTIČNA KITARA",
-        "NEW_PRICE(EUR)": "130.00",
-        "OLD_PRICE(EUR)": "136.84"
-    },
-    "GUITAR115": {
+    "GUITAR113": {
         "IME_GITARE": "FLIGHT D-435 NA AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "125.00",
         "OLD_PRICE(EUR)": "131.58"
     },
-    "GUITAR116": {
-        "IME_GITARE": "FLIGHT F-230C BLK AKUSTIČNA KITARA",
-        "NEW_PRICE(EUR)": "94.00",
-        "OLD_PRICE(EUR)": "98.95"
-    },
-    "GUITAR117": {
+    "GUITAR114": {
         "IME_GITARE": "FLIGHT F-230C NAT AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "94.00",
         "OLD_PRICE(EUR)": "98.95"
     },
-    "GUITAR118": {
+    "GUITAR115": {
         "IME_GITARE": "CORT LUXE NAT W/CASE",
         "NEW_PRICE(EUR)": "985.00",
         "OLD_PRICE(EUR)": "1,036.84"
     },
-    "GUITAR119": {
+    "GUITAR116": {
         "IME_GITARE": "CORT MR710F-12NS 12 STRUNSKA ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "395.52",
         "OLD_PRICE(EUR)": "416.34"
     },
-    "GUITAR120": {
+    "GUITAR117": {
         "IME_GITARE": "CRAFTER D 6/N SOLID TOP AKUSTIČNA KITARA S TORBO",
         "NEW_PRICE(EUR)": "323.75",
         "OLD_PRICE(EUR)": "340.79"
     },
-    "GUITAR121": {
+    "GUITAR118": {
         "IME_GITARE": "CRAFTER GA 6/N SOLID TOP AKUSTIČNA KITARA S TORBO",
         "NEW_PRICE(EUR)": "394.60",
         "OLD_PRICE(EUR)": "415.37"
     },
-    "GUITAR122": {
+    "GUITAR119": {
         "IME_GITARE": "CRAFTER GLXE3000RS ELEKTRO AKUSTIČNA KITARA S KOVČKOM",
         "NEW_PRICE(EUR)": "1,032.93",
         "OLD_PRICE(EUR)": "1,147.70"
     },
-    "GUITAR123": {
+    "GUITAR120": {
         "IME_GITARE": "CRAFTER J15/N AKUSTIČNA JUMBO KITARA S TORBO",
         "NEW_PRICE(EUR)": "423.87",
         "OLD_PRICE(EUR)": "446.18"
     },
-    "GUITAR124": {
+    "GUITAR121": {
         "IME_GITARE": "FENDER CT-140SE NAT ELEKTROAKUSTIČNA KITARA S KOVČKOM",
         "NEW_PRICE(EUR)": "344.00",
         "OLD_PRICE(EUR)": "362.10"
     },
-    "GUITAR125": {
+    "GUITAR122": {
         "IME_GITARE": "FLIGHT F-230 SB FOLK AKUSTIČNA KITARA SUNBURST",
         "NEW_PRICE(EUR)": "92.50",
         "OLD_PRICE(EUR)": "97.37"
     },
-    "GUITAR126": {
+    "GUITAR123": {
+        "IME_GITARE": "FLIGHT F-230C BLK AKUSTIČNA KITARA",
+        "NEW_PRICE(EUR)": "94.37",
+        "OLD_PRICE(EUR)": "99.34"
+    },
+    "GUITAR124": {
         "IME_GITARE": "FLIGHT F-230CEQ BLK ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "118.12",
         "OLD_PRICE(EUR)": "124.34"
     },
-    "GUITAR127": {
+    "GUITAR125": {
         "IME_GITARE": "IBANEZ PF15ECE-BK ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "199.30",
         "OLD_PRICE(EUR)": "216.07"
     },
-    "GUITAR128": {
+    "GUITAR126": {
         "IME_GITARE": "IBANEZ PF15ECE-TBS ELEKTRO AKOUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "205.27",
         "OLD_PRICE(EUR)": "216.07"
     },
-    "GUITAR129": {
+    "GUITAR127": {
         "IME_GITARE": "JET JJ-250 AKUSTIČNA KITARA JUMBO OP",
         "NEW_PRICE(EUR)": "119.00",
         "OLD_PRICE(EUR)": "125.26"
     },
-    "GUITAR130": {
+    "GUITAR128": {
         "IME_GITARE": "LAG HYVIBE 10 TRAMONTANE ELEKTRO AKUSTIČNA KITARA",
         "NEW_PRICE(EUR)": "937.50",
         "OLD_PRICE(EUR)": "986.84"
     },
-    "GUITAR131": {
+    "GUITAR129": {
         "IME_GITARE": "LAG TL70D TRAMONTANE 70 AKUSTIČNA KITARA LEFT HAND",
         "NEW_PRICE(EUR)": "225.99",
         "OLD_PRICE(EUR)": "237.88"

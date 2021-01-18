@@ -40,20 +40,22 @@ with open("cijene.csv", mode="w", encoding="utf-8") as f:
                 file_writer.writerow(([ime_gitare, price_new[:-1], price_old[:-1]]))
 
 
-def make_json(csvFilePath, jsonFilePath): 
-    data = {} 
-    with open(csvFilePath, encoding='utf-8') as csvf: 
-        csvReader = csv.DictReader(csvf) 
+def make_json(csvFilePath, jsonFilePath):
+    data = {}
+    with open(csvFilePath, encoding='utf-8') as csvf:
+        csvReader = csv.DictReader(csvf)
 
-        for i,rows in enumerate(csvReader): 
-            key = rows['IME_GITARE'] 
-            data['GUITAR'+str(i)] = rows 
+        for i,rows in enumerate(csvReader):
+            key = rows['IME_GITARE']
+            data['GUITAR'+str(i)] = rows
 
-    with open(jsonFilePath, 'w', encoding='utf-8') as jsonf: 
+    with open(jsonFilePath, 'w', encoding='utf-8') as jsonf:
         jsonf.write(json.dumps(data, ensure_ascii=False,indent=4))
-          
+
 
 csvFilePath = r'cijene.csv'
 jsonFilePath = r'Prices.json'
-  
+
 make_json(csvFilePath, jsonFilePath)
+
+print("CSV and JSON files created successfully")
